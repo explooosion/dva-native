@@ -6,7 +6,7 @@ A React Native starter powered by [dvajs/dva](https://github.com/dvajs/dva) and 
 
 This repository was recreated from [nihgwu/react-native-dva-starter](https://github.com/nihgwu/react-native-dva-starter).
 
-The repo changeed the code style and fixed edit style with [EditorConfig](https://editorconfig.org/).
+The repo changed the code style and fixed edit style with [EditorConfig](https://editorconfig.org/).
 
 ## Installation
 
